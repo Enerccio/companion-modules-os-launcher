@@ -1,13 +1,16 @@
 {
-  "name": "linux-launcher",
+  "name": "os-launcher",
   "version": "1.0.0",
-  "description": "Application launcher for linux systems.",
-  "main": "index.js",
+  "description": "Application launcher.",
+  "main": "osLauncher.js",
+  "manufacturer": "OS",
+  "product": "Command Launcher",
+  "shortname": "osLauncher",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Linux"
+    "System"
   ],
   "author": "Peter Vaňušanik <admin@en-circle.com>",
   "license": "MIT"
