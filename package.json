@@ -1,0 +1,14 @@
+{
+  "name": "linux-launcher",
+  "version": "1.0.0",
+  "description": "Application launcher for linux systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Linux"
+  ],
+  "author": "Peter Vaňušanik <admin@en-circle.com>",
+  "license": "MIT"
+}
